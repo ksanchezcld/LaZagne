@@ -1,3 +1,4 @@
 pyasn1
 psutil
 secretstorage
+cryptography>=39.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
